@@ -1,0 +1,26 @@
+caption{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 20px;
+}
+
+table{
+    border: 1px solid black;
+    margin-left: 15em;
+    margin-top: 3em;
+    margin-bottom: 4em;
+    width: 65em;
+}
+
+
+th{
+    border: 1px solid black;
+    background-color:gainsboro;
+    padding: 20px;
+}
+
+td{
+    border: 1px solid black;
+    background-color: grey;
+    padding: 30px;
+}
